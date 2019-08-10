@@ -7,7 +7,7 @@
 //
 
 
-class Item {
+class Item : Codable {
     var name = ""
     var isChecked = false
     
